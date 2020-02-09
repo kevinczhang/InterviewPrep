@@ -14,7 +14,7 @@ public class Solution {
 
     private void getPermutations(int[] nums, boolean[] used, List<Integer> permutation, List<List<Integer>> res) {
         if (permutation.size() == nums.length) {
-            res.add(new ArrayList(permutation));
+            res.add(new ArrayList<>(permutation));
             return;
         }
 

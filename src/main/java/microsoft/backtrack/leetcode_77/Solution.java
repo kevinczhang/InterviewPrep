@@ -13,7 +13,7 @@ public class Solution {
 
     private void findCombinations(int n, int k, int start, List<Integer> comb, List<List<Integer>> res){
         if(comb.size() == k){
-            res.add(new ArrayList(comb));
+            res.add(new ArrayList<>(comb));
             return;
         }
         for(int i = start; i <= n; i++){

@@ -1,4 +1,4 @@
-## 46. Permutations46. Permutations
+## 46. Permutations
 
 Given a collection of **distinct** integers, return all possible permutations.
 
