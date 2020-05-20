@@ -1,4 +1,4 @@
-package microsoft.graph.leetcode934;
+package microsoft.graph.leetcode_934;
 
 import java.util.*;
 

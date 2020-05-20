@@ -1,4 +1,4 @@
-package microsoft.graph.leetcode934;
+package microsoft.graph.leetcode_934;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

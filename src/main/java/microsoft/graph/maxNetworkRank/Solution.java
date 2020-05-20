@@ -5,7 +5,6 @@ import java.util.Map;
 
 public class Solution {
     private static int countEdges(int[] arr1, int[] arr2, int total) {
-        // TODO Auto-generated method stub
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for(int i=0;i<arr1.length;i++) {
             map.putIfAbsent(arr1[i], 0);
